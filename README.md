@@ -11,9 +11,10 @@ Eu sou o Crhistian!
 - 💭 API-REST, arquitetura MVC
 
 ## Contato
-- [@crhis-tchan](https://www.instagram.com/crhis_tchan/) on Instagram
-- [antiCrhistian#9049](./) on Discord
+- [@crhis-tchan](https://www.instagram.com/crhis_tchan/) no Instagram
+- [antiCrhistian#9049](./) no Discord
 
+## Statísticas
 <div>
 <a href="https://github.com/Crhist0">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crhist0&layout=compact&langs_count=7&theme=onedark"/>
