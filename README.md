@@ -22,8 +22,6 @@ Eu sou o Crhistian!
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crhist0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 <br>
 <br>
-<br>
-<br>
 <img src="https://github-profile-trophy.vercel.app/?username=Crhist0&theme=onedark&title=Stars,Followers,Commit,Repo&margin-w=30&margin-h=30&row=1&column=4&no-frame=true"/>
 </div>
   
