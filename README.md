@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![card](https://github-readme-stats.vercel.app/api?username=Crhist0&theme=onedark&show_icons=true)](https://github.com/Crhist0/)
 [![Crhist0](https://github-readme-stats.vercel.app/api/top-langs/?username=Crhist0&hide=html&layout=compact=true&theme=onedark)](https://github.com/Crhist0/)
 
 <!--
