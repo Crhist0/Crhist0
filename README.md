@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Crhist0](https://github-readme-stats.vercel.app/api/top-langs/?username=Crhist0&hide=html&layout=compact=false&theme=onedark)](https://github.com/Crhist0/)
+[![Crhist0](https://github-readme-stats.vercel.app/api/top-langs/?username=Crhist0&hide=html&layout=compact=true&theme=onedark)](https://github.com/Crhist0/)
 
 <!--
 **Crhist0/Crhist0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
