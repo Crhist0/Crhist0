@@ -1,4 +1,18 @@
-### Hi there 👋
+## Olá 👋
+Eu sou o Crhistian!
+
+
+- 🤓 Estou no programa [Starter](https://www.growdev.com.br/starter) da GrowDev para me tornar um web developer fullstack! 
+
+## Skills
+- 👨‍💻 NodeJS, Type/JavaScript, Express, Heroku
+- 👁️ CSS, Bootstrap
+- 💾 PostgreSql, Redis
+- 💭 API-REST, arquitetura MVC
+
+## Contato
+- [@crhis-tchan](https://www.instagram.com/crhis_tchan/) on Instagram
+- [antiCrhistian#9049](./) on Discord
 
 <div>
 <a href="https://github.com/Crhist0">
