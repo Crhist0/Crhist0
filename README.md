@@ -14,6 +14,7 @@ Eu sou o Crhistian!
 ## Contato
 - [@crhis-tchan](https://www.instagram.com/crhis_tchan/) no Instagram
 - [antiCrhistian#9049](./) no Discord
+- [Crhistian](https://www.linkedin.com/in/crhistian-de-oliveira-b35841161/) no Linkedin
 
 ## Statísticas
 <div align="center">
