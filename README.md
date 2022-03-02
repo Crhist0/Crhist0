@@ -1,6 +1,7 @@
 
 ## Olá 👋
-Eu sou o Crhistian!
+<span translate="no">Eu sou o Crhistian!</span>
+
 
 
 - 🤓 Estou no programa [Starter](https://www.growdev.com.br/starter) da GrowDev para me tornar um web developer fullstack! 
