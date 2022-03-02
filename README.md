@@ -1,5 +1,9 @@
-<meta name="google" content="notranslate">
-
+<!DOCTYPE html>
+<html lang="pt-BR" class="notranslate" translate="no">
+<head>
+  <meta name="google" content="notranslate" />
+</head>
+<body>
 ## Olá 👋
 Eu sou o <span translate="no">Crhistian</span>!
 
@@ -27,6 +31,7 @@ Eu sou o <span translate="no">Crhistian</span>!
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Crhist0&theme=onedark&title=Stars,Followers,Commit,Repo&margin-w=30&margin-h=30&row=1&column=4&no-frame=true"/>
 </div>
-  
+</body>
+</html>
   
 
