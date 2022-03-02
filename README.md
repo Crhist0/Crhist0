@@ -1,6 +1,7 @@
+<meta name="google" content="notranslate">
 
 ## Olá 👋
-<span translate="no">Eu sou o Crhistian!</span>
+Eu sou o <span translate="no">Crhistian</span>!
 
 
 
