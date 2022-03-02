@@ -14,9 +14,10 @@ Eu sou o <span translate="no">Crhistian</span>!
 
 ## Skills
 - 👨‍💻 NodeJS, Type/JavaScript, Express, Heroku
-- 👁️ CSS, Bootstrap
+- 👁️ CSS/SASS, Bootstrap, Tailwind
 - 💾 PostgreSql, Redis
-- 💭 API-REST, arquitetura MVC
+- 💭 API-REST, arquitetura MVC, DDD
+- 🧩 ReactJs, Material UI
 
 ## Contato
 - [@crhis-tchan](https://www.instagram.com/crhis_tchan/) no Instagram
