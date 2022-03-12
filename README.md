@@ -27,9 +27,11 @@ Eu sou o <span translate="no">Crhistian</span>!
 ## Statísticas
 <div align="center">
 <a href="https://github.com/Crhist0">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crhist0&layout=compact&langs_count=7&theme=onedark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crhist0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Crhist0&theme=onedark" alt="stats" />
+<div align="center">
+<img height="180em" width="400px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crhist0&layout=compact&langs_count=7&theme=onedark"/>
+<img height="180em" width="400px"  src="https://github-readme-stats.vercel.app/api?username=Crhist0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+</div>
+<img height="180em" width="810px"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Crhist0&theme=onedark" alt="stats" />
 <br>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Crhist0&theme=onedark&title=Stars,Followers,Commit,Repo&margin-w=30&margin-h=30&row=1&column=4&no-frame=true"/>
