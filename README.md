@@ -11,9 +11,10 @@ Eu sou o <span translate="no">Crhistian</span>!
 
 
 - 🤓 Estou no programa [Starter](https://www.growdev.com.br/starter) da GrowDev para me tornar um web developer fullstack! 
+- 👨‍💻 Atualmente trabalho como Front-end web developer com ReactJs na GrowDev. 
 
 ## Skills
-- 👨‍💻 NodeJS, Type/JavaScript, Express, Heroku
+- 💻 NodeJS, Type/JavaScript, Express, Heroku
 - 👁️ CSS/SASS, Bootstrap, Tailwind
 - 💾 PostgreSql, Redis
 - 💭 API-REST, arquitetura MVC, DDD
