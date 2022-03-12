@@ -28,8 +28,8 @@ Eu sou o <span translate="no">Crhistian</span>!
 <div align="center">
 <a href="https://github.com/Crhist0">
 <div align="center">
-<img  width="400px" heigth="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crhist0&layout=compact&langs_count=7&theme=onedark"/>
-<img  width="400px" heigth="190px" src="https://github-readme-stats.vercel.app/api?username=Crhist0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img  width="364px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crhist0&layout=compact&langs_count=7&theme=onedark"/>
+<img  width="435px"  src="https://github-readme-stats.vercel.app/api?username=Crhist0&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
 <img  width="805px"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Crhist0&theme=onedark" alt="stats" />
 <br>
