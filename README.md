@@ -41,6 +41,6 @@ Eu sou o <span translate="no">Crhistian</span>!
 </html>
   
   
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S4BL87H)
+
   
 
