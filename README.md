@@ -27,7 +27,6 @@ Eu sou o Crhistian!
 </div>
 <img  width="805px"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Crhist0&theme=onedark" alt="stats" />
 <br>
-<br>
 <img src="https://github-profile-trophy.vercel.app/?username=Crhist0&theme=onedark&title=Stars,Followers,Commit,Repo&margin-w=30&margin-h=30&row=1&column=4&no-frame=true"/>
 </div>
   
