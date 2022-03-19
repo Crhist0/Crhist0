@@ -29,7 +29,7 @@ Eu sou o Crhistian!
  <br />
  <br />
  <div id="trophies">
-<img src="https://github-profile-trophy.vercel.app/?username=Crhist0&theme=onedark&title=Stars,Followers,Commit,Repo,Issues,PullRequest,MultiLanguage&margin-w=16&margin-h=16&row=1&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Crhist0&theme=onedark&title=Stars,Followers,Commit,Repo,Issues,PullRequest,MultiLanguage&margin-w=8&margin-h=16&row=1&column=7&no-frame=true"/>
  </div>
 </div>
   
