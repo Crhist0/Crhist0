@@ -28,8 +28,8 @@ Eu sou o Crhistian!
 <img  width="805px"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Crhist0&theme=onedark" alt="stats" />
  <br />
  <br />
- <div id="trophies">
-<img src="https://github-profile-trophy.vercel.app/?username=Crhist0&theme=onedark&title=Stars,Followers,Commit,Repo,Issues,PullRequest,MultiLanguage&margin-w=16&margin-h=16&row=1&column=7&no-frame=true"/>
+ <div id="trophies" align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Crhist0&theme=onedark&title=Stars,Followers,Commit,Repo,Issues,PullRequest,MultiLanguage&margin-w=29&margin-h=0&row=1&column=6&no-frame=true"/>
  </div>
 </div>
   
