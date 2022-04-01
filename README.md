@@ -11,7 +11,7 @@ Eu sou o Crhistian!
 - 👁️ CSS/SASS, Bootstrap, Tailwind
 - 💾 PostgreSql, Redis
 - 💭 API-REST, arquitetura MVC, DDD
-- 🧩 ReactJs, Material UI
+- 🧩 ReactJs, Material UI, Redux-toolkit
 
 ## Contato
 - [Crhistian](https://www.linkedin.com/in/crhistian-de-oliveira-b35841161/) no Linkedin
