@@ -17,7 +17,6 @@ Eu sou o Crhistian!
 - [Crhistian](https://www.linkedin.com/in/crhistian-de-oliveira-b35841161/) no Linkedin
 - [Crhist0](https://stackoverflow.com/users/edit/18503978) no StackOverflow
 - [antiCrhistian#9049](./) no Discord
-- [@crhis-tchan](https://www.instagram.com/crhis_tchan/) no Instagram
  
 ## Statísticas
 <div align="center">
