@@ -3,8 +3,9 @@ Eu sou o Crhistian!
 
 
 
-- 🤓 Estou no programa [Starter](https://www.growdev.com.br/starter) da GrowDev para me tornar um web developer fullstack! 
-- 👨‍💻 Atualmente trabalho como Front-end web developer com ReactJs na GrowDev. 
+- 🤓 Sou fullstack web developer formado pelo programa [Starter](https://www.growdev.com.br/starter) da GrowDev. 
+- 👨‍💻 Trabalho como Software Engineer Jr. na [SafeTech](https://safetech.inf.br/), onde atuo em aplicações web com foco em front-end em ReactJs.
+- 🧑‍🏫 Trabalho como TechHelper na GrowDev, onde atuo repassando conhecimento e auxiliando em atividades práticas no programa starter fullstack web developer.
 
 ## Skills
 - 💻 NodeJS, Type/JavaScript, Express, Heroku
