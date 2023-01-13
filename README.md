@@ -8,11 +8,11 @@ Eu sou o Crhistian!
 - 🧑‍🏫 Trabalho como TechHelper na GrowDev, onde atuo repassando conhecimento e auxiliando em atividades práticas no programa starter fullstack web developer.
 
 ## Skills
-- 💻 NodeJS, Type/JavaScript, Express, Heroku
+- 💻 NodeJS, Type/JavaScript
 - 👁️ CSS/SASS, Bootstrap, Tailwind
 - 💾 PostgreSql, Redis
 - 💭 API-REST, arquitetura MVC, DDD
-- 🧩 ReactJs, Material UI, Redux-toolkit
+- 🧩 ReactJs, Material UI, Redux-toolkit, Express
 
 ## Contato
 - [Crhistian](https://www.linkedin.com/in/crhistian-de-oliveira-b35841161/) no Linkedin
