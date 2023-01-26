@@ -7,11 +7,17 @@ Eu sou o Crhistian!
 - 👨‍💻 Trabalho como Software Engineer Jr. na [SafeTech](https://safetech.inf.br/), onde atuo em aplicações web com foco em front-end em ReactJs.
 
 ## Skills
-- 💻 NodeJS, Type/JavaScript
-- 👁️ CSS/SASS, Bootstrap, Tailwind
+
+#### Me sinto a vontade com
+- 💻 NodeJS, TypeScript, JavaScript
+- 👁️ CSS/SASS, Tailwind, Bootstrap
+- 🧩 ReactJs, Material UI, Redux-toolkit
+- 💭 API-REST
+
+#### Com ajuda e tempo para pesquisa, trabalho com
 - 💾 PostgreSql, Redis
-- 💭 API-REST, arquitetura MVC, DDD
-- 🧩 ReactJs, Material UI, Redux-toolkit, Express
+- 💭 arquitetura MVC, DDD, TDD
+- 🧩 Express, Jest
 
 ## Contato
 - [Crhistian](https://www.linkedin.com/in/crhistian-de-oliveira-b35841161/) no Linkedin
