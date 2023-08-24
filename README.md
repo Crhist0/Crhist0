@@ -3,7 +3,7 @@ Eu sou o Crhistian!
 
 
 
-- 🤓 Sou fullstack web developer formado pelo programa [Starter](https://www.growdev.com.br/starter) da GrowDev. 
+- 🤓 Sou fullstack web developer formado pela [GrowDev](https://www.growdev.com.br/). 
 - 👨‍💻 Trabalho como Software Engineer Jr. na [SafeTech](https://safetech.inf.br/), onde atuo em aplicações web com foco em front-end em ReactJs.
 
 ## Skills
